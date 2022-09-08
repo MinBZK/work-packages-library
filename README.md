@@ -13,7 +13,16 @@ Keep an eye on this library!
 Everything in this repository is licensed under the [EUPL 1.2](./LICENCE.md) unless stated otherwise
 
 ## Add deliverable
-Use this repository by putting your deliverable(s) in the folder of your work package. Update the `index.json` with your deliverable data by adding a new entry at the top. Make sure that the `Work-package-name` exactly matches the folder to be created for this (or already present). Within the `Work-package-name` folder you are free to use your own structure.
+Use this repository by putting your deliverable(s) in the folder of your work package.
+
+1. Fork this repository to your GitHub organization.
+2. Clone this repository to your local machine.
+3. Create a new branch for your work-package using `git checkout -b Work-package-name-here`.
+4. Update the `index.json` with the metadata by adding a new entry at the top.
+5. Add your deliverable(s). Make sure that the `Work-package-name` exactly matches the folder to be created for this (or already present). Within the `Work-package-name` folder you are free to use your own structure.
+6. Describe in a `HOW TO` how someone can view the work package result and/or run it themselves.
+7. Push the changes to the remote repository
+8. Submit a pull request to the upstream repository.  
 
 ## Repository structure
 > This is a currently empty library. The structure below is an example.
