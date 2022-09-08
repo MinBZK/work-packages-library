@@ -9,6 +9,9 @@ Ultimately, demand, supply and (partial) results of work packages will become se
 
 Keep an eye on this library!
 
+## License
+Everything in this repository is licensed under the [EUPL 1.2](./LICENCE.md) unless stated otherwise
+
 ## Contributing
 For information on how to start contributing to this library please read the [CONTRIBUTING.md](./CONTRIBUTING.md).
 
