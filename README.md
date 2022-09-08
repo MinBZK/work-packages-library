@@ -30,7 +30,6 @@ Use this repository by putting your work package deliverable(s) in the folder of
     |   +-- Docs-pages
     |   |   +-- Page-1
     |   |   +-- Page-2
-    +-- Deliverable-2
     +-- index.json
 
 ## Contributing
