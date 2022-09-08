@@ -12,8 +12,26 @@ Keep an eye on this library!
 ## License
 Everything in this repository is licensed under the [EUPL 1.2](./LICENCE.md) unless stated otherwise
 
-## Contributing
-For information on how to start contributing to this library please read the [CONTRIBUTING.md](./CONTRIBUTING.md).
+## Add deliverable
+Use this repository by putting your work package deliverable(s) in the folder of your project. Update the `index.json` with your deliverable data by adding a new entry at the top. Make sure that the project name exactly matches the folder to be created for this (or already present). Within the project folder you are free to use your own structure.
 
 ## Repository structure
-(...)
+> This is a currently empty library. The structure below is an example.
+
+    Work-packages-library
+    +-- Project-name
+    |   +-- Deliverable-1
+    |   +-- Deliverable-2
+    +-- README.md
+    +-- Project-name
+    |   +-- Deliverable
+    +-- Project-name
+    |   +-- Deliverable
+    |   +-- Docs-pages
+    |   |   +-- Page-1
+    |   |   +-- Page-2
+    +-- Deliverable-2
+    +-- index.json
+
+## Contributing
+For information on how to start contributing to this library please read the [CONTRIBUTING.md](./CONTRIBUTING.md).
