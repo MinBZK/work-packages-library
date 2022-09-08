@@ -1,0 +1,28 @@
+[
+    {
+      "__comment__": "this is the first project in de index",
+      "project": "<name of the project>",
+      "work-package-issue-url": "<issue url of the work package originally assigned>",
+      "short-description": "<short description of the deliverable>",
+      "software-language": "<programming language(s) and/or framework(s) used>",
+      "optional-items": {
+        "a": "b",
+        "c": "d"
+      },
+        "contact name": "<name surname>",
+        "contact email": "<email address>"
+    },
+    {
+      "__comment__": "this is the second project in de index",
+      "project": "<name of the project>",
+      "work-package-issue-url": "<issue url of the work package originally assigned>",
+      "short-description": "<short description of the deliverable>",
+      "software-language": "<programming language(s) and/or framework(s) used>",
+      "optional-items": {
+        "a": "b",
+        "c": "d"
+      },
+        "contact name": "<name surname>",
+        "contact email": "<email address>"
+    }
+    ]
