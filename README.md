@@ -13,19 +13,19 @@ Keep an eye on this library!
 Everything in this repository is licensed under the [EUPL 1.2](./LICENCE.md) unless stated otherwise
 
 ## Add deliverable
-Use this repository by putting your work package deliverable(s) in the folder of your project. Update the `index.json` with your deliverable data by adding a new entry at the top. Make sure that the project name exactly matches the folder to be created for this (or already present). Within the project folder you are free to use your own structure.
+Use this repository by putting your deliverable(s) in the folder of your work package. Update the `index.json` with your deliverable data by adding a new entry at the top. Make sure that the `Work-package-name` exactly matches the folder to be created for this (or already present). Within the `Work-package-name` folder you are free to use your own structure.
 
 ## Repository structure
 > This is a currently empty library. The structure below is an example.
 
     Work-packages-library
-    +-- Project-name
+    +-- Work-package-name
     |   +-- Deliverable-1
     |   +-- Deliverable-2
     +-- README.md
-    +-- Project-name
+    +-- Work-package-name
     |   +-- Deliverable
-    +-- Project-name
+    +-- Work-package-name
     |   +-- Deliverable
     |   +-- Docs-pages
     |   |   +-- Page-1

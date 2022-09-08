@@ -2,6 +2,7 @@
     {
       "__comment__": "this is the first project in de index",
       "project": "<name of the project>",
+      "work-package-name": "<name of the work package>",
       "work-package-issue-url": "<issue url of the work package originally assigned>",
       "short-description": "<short description of the deliverable>",
       "software-language": "<programming language(s) and/or framework(s) used>",
@@ -15,6 +16,7 @@
     {
       "__comment__": "this is the second project in de index",
       "project": "<name of the project>",
+      "work-package-name": "<name of the work package>",
       "work-package-issue-url": "<issue url of the work package originally assigned>",
       "short-description": "<short description of the deliverable>",
       "software-language": "<programming language(s) and/or framework(s) used>",
