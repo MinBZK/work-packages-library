@@ -9,6 +9,8 @@ Ultimately, demand, supply and (partial) results of work packages will become se
 
 Keep an eye on this library!
 
+Do you have any questions or do you want to work with us? Please contact [Steven Gort](mailto:steven.gort@ictu.nl)
+
 ## License
 Everything in this repository is licensed under the [EUPL 1.2](./LICENCE.md) unless stated otherwise
 
@@ -21,7 +23,7 @@ Use this repository by putting your deliverable(s) in the folder of your work pa
 4. Update the `index.json` with the metadata by adding a new entry at the top.
 5. Add your deliverable(s). Make sure that the `Work-package-name` exactly matches the folder to be created for this (or already present). Within the `Work-package-name` folder you are free to use your own structure.
 6. Describe in a `HOW TO` how someone can view the work package result and/or run it themselves.
-7. Push the changes to the remote repository
+7. Push the changes to the remote repository.
 8. Submit a pull request to the upstream repository.  
 
 ## Repository structure
