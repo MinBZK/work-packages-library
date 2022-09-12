@@ -1,5 +1,35 @@
 [
   {
+    "project": "ZoVis client",
+    "work-package-name": "zovis-client",
+    "work-package-issue-url": "",
+    "short-description": "Web client used to create ZoVis rules for FinancieelPaspoort",
+    "software-language": [
+      "Javascript (React)",
+      "Typescript",
+      "css"
+    ],
+    "contact name": "Tim van der Heijden",
+    "contact email": "tim@iwize.nl"
+  },
+  {
+    "__comment__": "this is the first project in the index",
+    "project": "<name of the project>",
+    "work-package-name": "<name of the work package>",
+    "work-package-issue-url": "<issue url of the work package originally assigned>",
+    "short-description": "<short description of the deliverable>",
+    "software-language": [
+      "<array of programming language(s) and/or framework(s) used>",
+      "<array of programming language(s) and/or framework(s) used>"
+    ],
+    "optional-items": {
+      "a": "b",
+      "c": "d"
+    },
+    "contact name": "<name surname>",
+    "contact email": "<email address>"
+  },
+  {
     "__comment__": "this is the first project in the index",
     "project": "<name of the project>",
     "work-package-name": "<name of the work package>",
