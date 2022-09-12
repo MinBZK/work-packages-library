@@ -1,7 +1,8 @@
 # How to run local version
 
 1. ```npm i```
-2. ```npm run start``` to start development server on localhost:3000
+2. Create env file in top dir.
+3. ```npm run start``` to start development server on localhost:3000
 
 
 # How to build for production
@@ -18,4 +19,11 @@
 5. Validate: https://financieelpaspoort-1fd26.firebaseapp.com/login
 
 
-
+# env entries
+REACT_APP_FIREBASE_API_KEY
+REACT_APP_FIREBASE_AUTH_DOMAIN
+REACT_APP_FIREBASE_DATABASE_URL
+REACT_APP_FIREBASE_PROJECT_ID
+REACT_APP_FIREBASE_STORAGE_BUCKET
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID
+REACT_APP_FIREBASE_APP_ID
