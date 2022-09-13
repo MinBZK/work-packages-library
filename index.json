@@ -2,7 +2,7 @@
   {
     "project": "ZoVis client",
     "work-package-name": "zovis-client",
-    "work-package-issue-url": "",
+    "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/18",
     "short-description": "Web client used to create ZoVis rules for FinancieelPaspoort",
     "software-language": [
       "Javascript (React)",
