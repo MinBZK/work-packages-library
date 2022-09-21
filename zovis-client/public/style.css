@@ -1,0 +1,67 @@
+.btn-primary {
+  background-color: #366493 !important;
+  border-color: #366493 !important;
+}
+
+.btn-danger {
+  background-color: #f9a119 !important;
+  border-color: #f9a119 !important;
+}
+
+header > div > div > button {
+  all: unset;
+}
+
+.qrparent {
+  padding-top: 50px;
+}
+
+.toplink {
+  padding-right: 40px;
+  color: #fff;
+}
+
+.toplink:hover {
+  color: #f9a119;
+}
+
+.loginbtn {
+  margin-top: 20px;
+}
+
+.narrowform {
+  max-width: 350px;
+  margin-bottom: 20px;
+}
+
+.logo-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  height: 100px;
+  background: rgb(54, 100, 147);
+  width: 100%;
+}
+
+.mybtn1 {
+  cursor: pointer;
+}
+
+.mybtn1:disabled {
+  cursor: not-allowed;
+}
+
+.fontWeightBold {
+  font-weight: bold;
+}
+
+.textAlignCenter {
+  text-align: center;
+}
+
+.topLogoWrap {
+  padding: 20px 0;
+}
+

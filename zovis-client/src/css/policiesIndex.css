@@ -1,0 +1,15 @@
+.policiesWrap {
+  padding-left: 30px;
+}
+
+.policyItem {
+  border: 1px dotted grey;
+  padding: 15px;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+
+.policySectionHeading {
+  padding-top: 15px;
+}
