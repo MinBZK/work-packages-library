@@ -1,0 +1,900 @@
+{
+    "code": 200,
+    "message": "",
+    "data": {
+        "-N6exw-1NPg9mSBCMqDM": {
+            "address": "“De Petrus” Heuvel 2 5261 EE  Vught",
+            "description": "Steeds meer kinderen in Nederland kunnen om financiële redenen niet meedoen aan activiteiten die voor hun leeftijdsgenootjes heel normaal zijn. Zij staan vaak letterlijk aan de zijlijn. Leergeld wil deze kinderen mee laten doen!\nVia ruim 100 lokale Leergeld stichtingen biedt zij deze kinderen kansen om te kunnen deelnemen aan binnen- en buitenschoolse activiteiten. Leergeld biedt hen hiermee een springplank, waardoor zij opbloeien, kennis en vaardigheden ontwikkelen en eigenwaarde krijgen.",
+            "intermediair": "Wegwijs+",
+            "name": "Leergeld Vught",
+            "openingTimes": "Kantoortijden",
+            "phone": "06 – 543 87 803",
+            "policies": {
+                "-N8T_4PDxMnT-3v0JHVS": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Onderwijs verplichte schoolreisje"
+                },
+                "-N8T_4PE8_8u3rx0K705": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Onderwijs verplichte schoolkosten"
+                },
+                "-N8T_4PFqUDU5Nn4jTkA": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "12000",
+                    "name": "Onderwijs verplichte schoolspullen"
+                },
+                "-N8T_4PGiCWOeeFTYD8n": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "15000",
+                    "name": "Vervoer"
+                },
+                "-N8T_4PHQbMOEo9e6ZgZ": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "15000",
+                    "name": "Sport"
+                },
+                "-N8T_4PHQbMOEo9e6Zg_": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "15000",
+                    "name": "Welzijn"
+                }
+            },
+            "township": "Vught",
+            "website": "https://www.leergeld.nl/vught/"
+        },
+        "-N6f-Mx5RrZi37MUzrqI": {
+            "address": "Kempenlandstraat 11H 5262 GK  VUGHT",
+            "description": "De speelgoedbank geeft – gratis – speelgoed aan kinderen (van 0 t/m 12 jaar) in de gemeente Vught waarvan de ouders/verzorgers vanwege financiële redenen (tijdelijk) geen speelgoed kunnen kopen.\n\nSpeelgoed is erg belangrijk voor de ontwikkeling van de fantasie, motoriek en creativiteit van kinderen. Speelgoed zorgt er bovendien voor dat kinderen sneller met andere kinderen spelen en is dus ook belangrijk voor de sociale contacten.",
+            "intermediair": "Sophia van Thiel",
+            "name": "Speelgoedbank",
+            "openingTimes": "Woensdag 1x per 2 weken van 13.30 tot 16.00 uur. (In de even weken)  Zaterdagen tweede helft 2022 (10.00 – 12.00 uur): 16 juli, 1 oktober, 5 november, 3 december.  In de schoolvakanties gesloten.",
+            "phone": "06 3970 3630",
+            "policies": {
+                "-N7Msg1Qs1KNCJVOCzYD": {
+                    "hasResidentChildren": true,
+                    "name": "Speelgoed"
+                }
+            },
+            "township": "Vught",
+            "website": "https://speelgoedbankvught.nl"
+        },
+        "-N6f2J7aDnJhJ0b_duxo": {
+            "address": "’s-hertogebosch-Vught",
+            "description": "Het Jeugdfonds Sport & Cultuur ‘s-Hertogenbosch-Vught betaalt de contributie / het lesgeld voor kinderen en jongeren van 0 tot 18 jaar uit gezinnen waar te weinig geld is voor een sportclub, muziek- of dansles, schilderen, theaterschool of een andere creatieve cursus.",
+            "intermediair": "Carmen Nijssen",
+            "name": "Jongerenfonds Sport en Cultuur",
+            "openingTimes": "Maandag-, dinsdag- en donderdagochtend van 9.00 uur - 12.00 uur ",
+            "phone": "06-15642732 ",
+            "policies": {
+                "-N8YiE3yR3QxfU56x1NV": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "10000",
+                    "name": "Lidmaatschap sportkleding"
+                },
+                "-N8YiE3yR3QxfU56x1NW": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Peuterzwemmen"
+                },
+                "-N8YiE3z1Hezf7NknNjB": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Muziek, dans, toneel, tekenles"
+                },
+                "-N8YiE4-KRWlrpoep58G": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Diploma A,B,C, vanaf 4 jaar"
+                },
+                "-N8YiE4-KRWlrpoep58H": {
+                    "incomeLowerThan": "11000",
+                    "name": "Kleding en attributen kleding"
+                },
+                "-N8YiE40mZ9HUPLfzFKP": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Instrumenten huur/koop"
+                },
+                "-N8YiE40mZ9HUPLfzFKQ": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Scouting"
+                }
+            },
+            "township": "Vught",
+            "website": "https://jeugdfondssportencultuur.nl/fondsen/s-hertogenbosch-vught/"
+        },
+        "-N6f4YQ6ELVsaGjC-PyT": {
+            "address": "Leergeld “De Petrus” Heuvel 2 5261 EE  Vught",
+            "description": "Voor veel kinderen is een verjaardag met cadeaus, visite en trakteren op school vanzelfsprekend. Voor tienduizenden kinderen in Nederland is dit niet het geval. Zij kunnen hun verjaardag niet vieren, omdat er thuis te weinig of zelfs geen geld voor is. Op de mooiste dag van het jaar krijgen deze kinderen geen cadeautjes, hangen er geen slingers en ballonnen en kunnen zij niet trakteren op school. Uit schaamte melden ze zich soms zelf ziek. Stichting Jarige Job helpt deze kinderen door het geven van een verjaardagsbox, want ieder kind verdient een verjaardag! ",
+            "intermediair": "Liesbeth Blomjous",
+            "name": "Jarige Job",
+            "openingTimes": "Kantooruren",
+            "phone": "06 – 543 87 803",
+            "policies": {
+                "-N8Yj1pGETVHPLLcTbWi": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "12000",
+                    "name": "Verjaardagscadeau"
+                }
+            },
+            "township": "Vught",
+            "website": "https://stichtingjarigejob.nl"
+        },
+        "-N6f5f-VTsog7oRQH9Kg": {
+            "address": "Vincentiushuis aan De Ketting 20 in Vught",
+            "description": "De Vincentiusvereniging Vught is een maatschappelijke dienstverleningsinstantie, die met behulp van vrijwilligers een structurele bijdrage wil leveren aan een beter leven voor zwakkeren en kwetsbaren in de samenleving.",
+            "intermediair": "",
+            "name": "Vincentius",
+            "openingTimes": "Iedere woensdag van 10.00-12.00 uur in het Vincentiushuis aan De Ketting 20 in Vught. In Helvoirt is het iedere maandag inloopspreekuur van 14.00-15.00 uur in het HelvoirThuis aan de Kloosterstraat 30 Helvoirt",
+            "phone": "06 - 291 78 562",
+            "policies": {
+                "-N8YnXHL4YssJiosUiL9": {
+                    "hasDebts": true,
+                    "incomeLowerThan": "11000",
+                    "isEntrepreneur": true,
+                    "name": "Inloopspreekuur"
+                },
+                "-N8YnXHNWyy1gueEpyVn": {
+                    "hasDebts": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Thuisadministratie"
+                },
+                "-N8YnXHOR_-eqDz0eHrE": {
+                    "hasDebts": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Schuldhulpverlening"
+                },
+                "-N8YnXHP1g5FUo5QG_b1": {
+                    "incomeLowerThan": "11000",
+                    "name": "Kamerinrichting"
+                },
+                "-N8YnXHP1g5FUo5QG_b2": {
+                    "hasDebts": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Vakantieweek/weekend"
+                },
+                "-N8YnXHQ64ynOnPQvw74": {
+                    "incomeLowerThan": "11000",
+                    "name": "Kleding"
+                },
+                "-N8YnXHRz3M3oZeFikyY": {
+                    "hasDebts": true,
+                    "incomeLowerThan": 0,
+                    "name": "Voedselbank/aanmelden/verstrekking"
+                },
+                "-N8YnXHRz3M3oZeFikyZ": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Tandheelkundige hulp/preventie"
+                },
+                "-N8YnXHSkZGr6se_Y-GT": {
+                    "hasDebts": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Hulppakke/om de week/sinterklaas/kerst extra"
+                }
+            },
+            "township": "Vught",
+            "website": "https://www.vincentiusvught.nl"
+        },
+        "-N6lG36mJKxQ2Yeh8GdQ": {
+            "address": "De Petrus, Heuvel 2, 5261 EE Vught",
+            "description": "Ken of ben je iemand die moeite heeft met het regelen van overheidszaken via internet? Zoals CoronaCheckApp, DigiD, Belastingen & Toeslagen, AOW, Werk & Uitkering, Inburgering, Rijbewijs, Zorg, Studiefinanciering en Verkeersboetes. Medewerkers van het IDO helpen je gratis op weg. Loop eens binnen.",
+            "intermediair": "Huis 73",
+            "name": "Bibliotheek Vught",
+            "openingTimes": "Maandag t/m vrijdag van 09:00 - 18:00 uur (zelfservice tot 10:00 uur) Zaterdag van 10:00 - 17:00 uur | Zondag 12:00 - 17:00 uur",
+            "phone": "073 - 6802950",
+            "policies": {
+                "-N8YnjHrv27OgyPpYCsp": {
+                    "isEntrepreneur": true,
+                    "name": "Belastingformulier invullen"
+                }
+            },
+            "township": "Vught",
+            "website": "https://www.huis73.nl/vestigingen/vught.html"
+        },
+        "-N6lGUAnWLHzKyJITir5": {
+            "address": "Hinthamerstraat 72 - 74, 5211 MR 's-Hertogenbosch",
+            "description": "Ontmoetingsplaats",
+            "intermediair": "Bibliotheek ’s-Hertogenbosch",
+            "name": "Huis73",
+            "openingTimes": "Maandag t/m vrijdag: 9.00 - 21.00 uur * Zaterdag: 10.00 - 17.00 uur",
+            "phone": "(073) 680 29 00",
+            "policies": {
+                "-N7N4JWc_4Qro_QtlnXG": {
+                    "hasDebts": true,
+                    "name": "Digitaal- en taalvaardig"
+                }
+            },
+            "township": "Denbosch",
+            "website": "https://www.huis73.nl/contact.html"
+        },
+        "-N6sPA1z_qWPRxpPv4Bv": {
+            "address": "leergeldheusden@gmail.com of 0647 990 263",
+            "description": "Alle kinderen mogen meedoen want nu meedoen is straks meetellen.\nSteeds meer kinderen in Nederland kunnen om financiële redenen niet meedoen aan activiteiten die voor hun leeftijdsgenootjes heel normaal zijn. Zij staan vaak letterlijk aan de zijlijn. Leergeld wil deze kinderen mee laten doen! Via ruim 100 lokale Leergeld stichtingen biedt zij deze kinderen kansen om te kunnen deelnemen aan binnen- en buitenschoolse activiteiten. Leergeld biedt hen hiermee een springplank, waardoor zij opbloeien, kennis en vaardigheden ontwikkelen en eigenwaarde krijgen.\n\n\nJaarlijks terugkerende acties:\n\nVoor deze acties kun je niet het hele jaar een aanvraag doen, maar je krijgt automatisch een mailtje als je je kind op kunt geven.\n\nSchoolpakket, voor toekomstige brugklassers eind groep 8 een bon voor een schoolrugzak en schoolspullen én een smartphone met telefoonabonnement.\nVoor de zomervakantie kun je gratis een abonnement op zwembad ’t Run krijgen en een aantal gratis activiteiten bij Jeugd Vakantie Vreugd Drunen (staat open voor de hele gemeente Heusden).\nWe hopen weer kaartjes voor een dagje uit naar een attractiepark te kunnen geven.\nIn het najaar krijg je het aanbod van een kledingbon voor Jola Mode\nDe actie pepernoot, cadeaucodes voor een sinterklaascadeautje\nVoor minderjarige studenten van het MBO kunnen we een aanvraag doen bij de onderwijsinstelling voor vergoeding van de verplichte studiekosten. Alleen als het om een BOL opleiding gaat. (Beroeps Opleidende Leerweg.)\nAls je wilt, geven we de adresgegevens door aan Stichting Jarige Job, zodat kinderen van hun vierde tot en met hun twaalfde verjaardag een goedgevulde verjaardagsbox krijgen thuis gestuurd.\n\nhttps://www.leergeld.nl/heusden/wp-content/uploads/sites/29/2021/11/peuteraanbod-november-2021-voor-op-de-website.pdf",
+            "intermediair": "https://www.leergeld.nl/heusden/doe-een-aanvraag/ ",
+            "name": "Stichting Leergeld Heusden",
+            "openingTimes": "Telefoonnr.: 06 47 990 263  We zijn bereikbaar op dinsdag- en op donderdagochtend tussen 9 en 12 uur. (Bij geen gehoor kun je de voicemail inspreken.)",
+            "phone": "0647 990 263",
+            "policies": {
+                "-N8YrnacB3uCv5jn0n_O": {
+                    "equityLowerThan": "10000",
+                    "hasResidentChildren": true,
+                    "name": "zwemles"
+                },
+                "-N8YrnadWYn0O-QWcgDf": {
+                    "equityLowerThan": "10000",
+                    "hasResidentChildren": true,
+                    "name": "schoolspullen en fietsen"
+                },
+                "-N8YrnaeNuuOj6-kx9vl": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "sporten - contributie en benodigde spullen"
+                },
+                "-N8YrnafSLbkaN8L_MRl": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "12000",
+                    "name": "muziekles - evt. met instrument"
+                },
+                "-N8Yrnag4QxM-NbOvDIk": {
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Ouderbijdrage /schoolreisje B.S. (overblijven geen vergoeding)"
+                },
+                "-N8YrnahX0d3W4JhZMc2": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Activiteiten/schoolkampen V.O. (ouderbijdrage niet/)/wel   300 euro eenmalig voor educatieve buitenlandse reis"
+                },
+                "-N8YrnahX0d3W4JhZMc3": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Lidmaatschap scouting (225 per jaar)"
+                },
+                "-N8Yrnaji941s_u8uaQP": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Lidmaatschap Speel-o-theek: voor 0 tot 12 jaar."
+                },
+                "-N8YrnbwBtNamg_0MjsR": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Gezinslaptop: voor gezinnen met kinderen op de basisschool. Voor kinderen op het Voortgezet Onderwijs kun je bij Baanbrekers een vergoeding voor de laptop aanvragen."
+                },
+                "-N8Yrnby6Ku5n26e-tKa": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Fiets: vanaf groep 8 kun je een nieuwe fiets aanvragen met een eigen bijdrage van € 50. Er is keuze tussen een omafiets en een stadsfiets met versnellingen."
+                },
+                "-N8Yrnbz1jvDbJxWYRur": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Lekker bewegen voor 0- tot 4-jarigen: Leergeld Heusden heeft voortaan ook een aanbod voor de allerkleinsten. – Ouder- en kindzwemmen Olympiabad Waalwijk. – Gymnastiek Inion in Oudheusden – Gymnastiek en dansen SHJ Drunen – Ballet Studio Max Vlijmen."
+                }
+            },
+            "township": "Heusden",
+            "website": "https://www.leergeld.nl/heusden "
+        },
+        "-N776_2D8_Y6dGQZna0f": {
+            "address": "Caleidoscoop, Jan Steenstraat 2, Vlijmen",
+            "description": "Klanten die in aanmerking willen komen voor een wekelijks voedselpakket kunnen zich via de Wijkwinkel Vlijmen-Heusden melden bij Farent, die dan de financiële situatie in kaart brengt en die vervolgens doorstuurt naar administratie Voedselbank 's-Hertogenbosch e.o.\nNa goedkeur kan de klant wekelijks een pakket afhalen waarvan de grootte afhankelijk is van de gezinssamenstelling.\nElke 6 maanden wordt de financiële situatie opnieuw beoordeelt en de aanvraag eventueel verlengd tot max 42 maanden.\nOok een bewindvoerder kan een aanvraag voedselpakket voor zijn/haar klant starten. De procedure is dan gelijk.\nDe app Financieel Paspoort is erg makkelijk om de financiële situatie in kaart te brengen door de klant zelf.",
+            "intermediair": "Farent of bewindvoerder via bv Gemeente of .....",
+            "name": "Voedselbank Vlijmen",
+            "openingTimes": "Vrijdag van 12.00 u tot 13.30 u",
+            "phone": "0619 680 007",
+            "policies": {
+                "-N7U3xxXXnVQUBIkRDg2": {
+                    "hasDebts": false,
+                    "hasResidentChildren": false,
+                    "incomeLowerThan": "5.000",
+                    "name": "Voedselpakket "
+                }
+            },
+            "township": "Heusden",
+            "website": "https://www.voedselbankdenbosch.nl/"
+        },
+        "-N776gJFyzuoB3bbVr7u": {
+            "address": "Secr. van Rooijstraat 15261 EP Vught",
+            "description": "Over Wegwijs+\nWegwijs+ is een samenwerkingsverband van:\nGemeente Vught\nFarent\nMEE\nVivent\nGGD\nU kunt bij Wegwijs+ terecht met al uw vragen, zorgen en signalen op het gebied van:\nwerk en inkomen\nhulpverlening en ondersteuning\nopvoeding\nbegeleiding en wonen\nAdvies en ondersteuning\nWegwijs+ denkt met u mee bij het organiseren van eigen oplossingen en steun binnen uw (sociale) omgeving. Uw vraag en eigen mogelijkheden zijn hierbij het uitgangspunt. Zo houdt u zoveel mogelijk zelf de regie over uw situatie. Hebt u daarnaast meer ondersteuning nodig? Bijvoorbeeld in de vorm van gezinshulp, maatschappelijk werk, hulpmiddelen of begeleiding? Dan zorgen wij ervoor dat dit georganiseerd wordt. Daarbij leveren wij maatwerk, met als uitgangspunt dat u zoveel mogelijk zelfstandig en zelfredzaam blijft.\n\nWanneer contact met Wegwijs+ opnemen?\nHebt u zelf of heeft iemand in uw omgeving advies of ondersteuning van Wegwijs+ nodig? Bijvoorbeeld als het niet meer lukt om het huishouden te doen of er financiële zorgen zijn? Hebt u opvoedingsvragen of dreigen mantelzorgers overbelast te raken? Neem contact op met Wegwijs+. Wacht daar niet te lang mee. Hoe eerder u komt, hoe beter en sneller we u kunnen adviseren of helpen. \n\nOok als vrijwilliger of professional kunt u signalen melden bij Wegwijs+. Dit kunnen signalen zijn op casusniveau, maar ook signalen van trends in Vught of kansen voor verbetering.\n\nAfspraak? We komen bij u thuis\nWegwijs+ werkt op afspraak. Deze afspraak bestaat uit één of meerdere gesprekken om uw persoonlijke situatie en hulpvraag goed in beeld te krijgen. Dit kan bij u thuis, op het gemeentekantoor of op een andere passende locatie. Hieraan zijn geen kosten verbonden. U hebt geen verwijzing van de huisarts nodig. Natuurlijk kunt u bij dit gesprek een kennis of familielid vragen u te ondersteunen of een (onafhankelijke) cliëntondersteuner.\n\nContact\nU kunt van maandag tot en met donderdag van 09.00 tot 17.00 uur en vrijdag van 09.00 tot 12.30 uur contact met ons opnemen. U kunt mailen naar wegwijs@vught.nl of bellen met 073 65 80 750 \nZijn wij bij u in de wijk? Dan kunt u ons aanspreken met uw vragen of opmerkingen\nSociale Kaart\nOp de sociale kaart kunt u zien welke mogelijkheden er in Vught, Cromvoirt en Helvoirt zijn voor sociale activiteiten die voor iedereen toegankelijk zijn. Ook voor hulp en ondersteuning die u zelf kunt regelen, informatie en advies kunt u hier terecht.",
+            "intermediair": "Wegwijs +",
+            "name": "Sociaal Fonds Vught",
+            "openingTimes": "maandag t/m donderdag\t9.00 tot 17.00 uur dinsdag\t9.00 tot 17.00 uur woensdag\t9.00 tot 17.00 uur donderdag\t9.00 tot 17.00 uur vrijdag\t9.00 tot 12.30 uur",
+            "phone": "073 - 658 07 50",
+            "policies": {
+                "-N8TSilg9PHn-bWiIIPb": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "15000",
+                    "isEntrepreneur": true,
+                    "name": "Weinig Inkomen, alle basis behoeften "
+                }
+            },
+            "township": "Vught",
+            "website": "https://wegwijsplus.vught.nl/over-wegwijs"
+        },
+        "-N77R-ykJ67ZyAf1-MbF": {
+            "address": "IJsselsingel 52 5215 CM, s-Hertogenbosch",
+            "description": "Wereldwijd zijn ruim 82 miljoen mensen op de vlucht voor oorlog en geweld. Sommige vluchtelingen zoeken in ons land bescherming. Wij komen op voor hun belangen en helpen hen bij het opbouwen van een nieuw bestaan in Nederland.",
+            "intermediair": "Eum iure inventore r",
+            "name": "Vluchtelingenwerk",
+            "openingTimes": "maandag | 09:00-17:00 dinsdag | 09:00-17:00 woensdag | 09:00-17:00 donderdag | 09:00-17:00 vrijdag | 09:00-17:00",
+            "phone": "073-6140749",
+            "policies": {
+                "-N8TWQUYq2urQ7G56Zsx": {
+                    "name": "Lees onze standpunten over asielprocedure, integratie, gezinshereniging, opvang en nog veel meer."
+                }
+            },
+            "township": "Denbosch",
+            "website": "https://www.vluchtelingenwerk.nl/nl/locatie/s-hertogenbosch"
+        },
+        "-N77Y0UiwXq3s4ElgQSr": {
+            "address": "Gemeentekantoor Secr. van Rooijstraat 1 5261 EP Vught",
+            "description": "Bewegen 55+\nABZ Vught organiseert beweegactiviteiten voor senioren.\nWanneer je denkt dat MOVE Vught zich alleen maar inzet voor kinderen, dan heb je het mis. MOVE zet zich is voor iedereen die graag wil sporten en bewegen. Waarbij we extra energie steken in de mensen waarvoor sport- en bewegen niet altijd van zelfsprekend is.\n\nIedere keer lichten we er andere groepen of activiteiten uit. Dit keer: Walking Football!\n\nEen lekker potje voetballen zonder te rennen, dat is Walking Football. Walking Football is een prettige vorm van bewegen met een bal. Dankzij de geopende kantine staat ook zeker het ontmoeten centraal. Onder het genot van een kopje koffie kunt u bijkletsen over voetbalzaken, verhalen over vroeger en andere actuele onderwerpen. Spreekt de combinatie van bewegen en gezelligheid u aan, kom dan zeker een keer meedoen.\n\nWalking Football vindt plaatst op woensdagochtend bij Zwaluw VFC (De Kikvorsch 5, te Vught). De kantine is geopend van 09.30-12.30 uur. De voetbalactiviteit is van 10.30-11.30 uur.\n\nTot aan de zomervakantie is deelname gratis. Aanmelden is niet verplicht, u kunt gewoon langskomen en geheel vrijblijvend een keertje meedoen.\n\nVoor meer informatie kunt u contact opnemen met MOVE Vught (info@movevught.nl of 06-11435177). Ook kunt u kijken op onze website www.movevught.nl\n\nWe zien u graag een keer bij Zwaluw VFC!\n\nSENIOREN 55+\nBeweeg je Fit\nWil je meer bewegen maar wel naar eigen vermogen? Doe dan mee met 'Beweeg je Fit' in de zaal van de Speeldoos, Vliertstraat 6. Elke week op dinsdag om 08.30 en om 09.30 uur en op woensdag om 09.30 en om 10.30 uur.\n\nPas op de Plaats\nElke woensdag van 10.15 tot 11.00 uur kun je bewegen en oefeningen doen op de plaats, zittend en staand. Rode Rik, Van Sonstraat 49a\n\nYoga\nIedere maandag om 14.15 en om 15.30 uur wordt de cursus yoga, volgens de Hathayoga-methode, gegeven. Deze vindt plaats in de Speeldoos, Vliertstraat 6.\n\nMeer bewegen voor ouderen\nBSV\nElke week organiseert BSV op maandagmorgen van 09.30 tot 10.15 uur ‘Meer bewegen voor ouderen’ in Ons Home, Esschestraat 18A.\n\nBewegen met Ouderen Samen en MOVE Vught\nOuderen Samen en MOVE Vught  bieden een beweegactiviteit aan. \n\nElke maandag en elke dinsdag van 14.15 tot 15.15 uur\nLocatie: gymzaal ‘Hertog van Brabant’, Hertoglaan 4b in Vught (ter hoogte van de ‘grote vijver’)\nBijdrage: bij Ouderen Samen betalen de deelnemers 20 euro per kwartaal. Dat is 2 euro per les.\nMeer informatie op de website van MOVE Vught\nhttps://ssnb.nl/vught/move-en-senioren/\n",
+            "intermediair": "Wegwijs +",
+            "name": "Move Vught voor ouderen",
+            "openingTimes": "maandag t/m donderdag\t9.00 tot 17.00 uur dinsdag\t9.00 tot 17.00 uur woensdag\t9.00 tot 17.00 uur donderdag\t9.00 tot 17.00 uur vrijdag\t9.00 tot 12.30 uur",
+            "phone": "073 65 80 750",
+            "policies": {
+                "-N8TjUz4yZ1cT9KprP-P": {
+                    "incomeLowerThan": "11000",
+                    "name": "Bewegen samen met ouderen"
+                },
+                "-N8TjV-EEntfSEzTPvmi": {
+                    "incomeLowerThan": "11000",
+                    "name": "Beweegroute"
+                },
+                "-N8TjV-GgKcNCoeR-kwS": {
+                    "incomeLowerThan": "11000",
+                    "name": "De gezonde combinatie"
+                },
+                "-N8TjV-GgKcNCoeR-kwT": {
+                    "incomeLowerThan": "11000",
+                    "name": "Walking football"
+                }
+            },
+            "township": "Vught",
+            "website": "https://wegwijsplus.vught.nl/contact-en-openingstijden/https://ssnb.nl/vught / move-en-senioren/"
+        },
+        "-N77YTRKqbfKjJJEnnU3": {
+            "address": "De Petrus, Heuvel 2, 5261 EE Vught",
+            "description": "Ken of ben je iemand die moeite heeft met het regelen van overheidszaken via internet? Zoals CoronaCheckApp, DigiD, Belastingen & Toeslagen, AOW, Werk & Uitkering, Inburgering, Rijbewijs, Zorg, Studiefinanciering en Verkeersboetes. Medewerkers van het IDO helpen je gratis op weg. Loop eens binnen.",
+            "intermediair": "",
+            "name": "Informatiepunt Digitale overheid",
+            "openingTimes": "Maandag t/m vrijdag van 09:00 - 18:00 uur (zelfservice tot 10:00 uur) Zaterdag van 10:00 - 17:00 uur | Zondag 12:00 - 17:00 uur .",
+            "phone": "073 - 6802950",
+            "policies": {
+                "-N8Z0Ygmug69SU_RJU5H": {
+                    "name": "Inloop"
+                }
+            },
+            "township": "Vught",
+            "website": " vught@huis73.nl"
+        },
+        "-N77ZkgXU1JCMWmFIrk1": {
+            "address": "Welzijn Vught Heuvel 2 5261 EE Vught",
+            "description": "Welzijn Vught is onderdeel van Farent.\n\nhttps://www.farent.nl/media/dndpsyko/hr_far7179-organogram_v5_verkort.pdf",
+            "intermediair": "Yvonne Kolmans",
+            "name": "Welzijn Vught",
+            "phone": "073-6565350",
+            "policies": {
+                "-N8cV7eovNetDL_DI_dy": {
+                    "name": "Dementienetwerk"
+                },
+                "-N8cV7eq7hc81k9UWU45": {
+                    "name": "Geheugenbibliotheek in dePetrus"
+                },
+                "-N8cV7eq7hc81k9UWU46": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Armoede"
+                },
+                "-N8cV7ervZqhKJUuLCY7": {
+                    "name": "Mantelzorg"
+                },
+                "-N8cV7esChnbB8jW8KOu": {
+                    "name": "Jonge Mantelzorgers"
+                },
+                "-N8cV7esChnbB8jW8KOv": {
+                    "name": "Verwenpakket"
+                }
+            },
+            "township": "Vught",
+            "website": "https://welzijnvught.nl/dementie/"
+        },
+        "-N77_-vYNrSMuGL1_aAO": {
+            "address": " Grinsel 7T, 5275 JL Den Dungen / gemeente Sint-Michielsgestel Telefoon: ",
+            "description": "We zijn een vrijwilligersorganisatie op het gebied van maatschappelijke hulpverlening in de dorpen Berlicum, Den Dungen, Gemonde, Middelrode en Sint-Michielsgestel.\n\nWe bekommeren ons om personen bij wie een menswaardig bestaan in de verdrukking dreigt te komen. Daarbij moeten kinderen onder hen zoveel mogelijk kunnen deelnemen aan normale maatschappelijke en schoolse activiteiten en gelijke kansen krijgen om hun talenten te ontwikkelen.\n\nMet vrijwilligers en donateurs willen we een bijdrage leveren aan een beter leven voor zwakkeren en kwetsbaren in de samenleving, ongeacht oorzaak, achtergrond of geloofsovertuiging.\n\nWij bieden directe en persoonlijke hulp aan gezinnen en alleenstaanden die in armoede leven of daarin terecht dreigen te komen. Waar mogelijk proberen we de situatie van mensen structureel te verbeteren. Wij helpen als het noodzakelijk is en geen andere instantie meer kan helpen.\n\nDe vereniging kent diverse werkgroepen. Binnen deze werkgroepen organiseren onze vrijwilligers verschillende activiteiten om mensen de hulp te kunnen bieden die zij nodig hebben.\n\nLokaal werken werken we nauw samen met de Gemeente en organisaties en mensen die eenzelfde doel nastreven.\n\nVincentiusvereniging Sint-Michielsgestel is lid van Vincentiusvereniging Nederland",
+            "intermediair": "Gemeente, Voedselbank, Vincentius, Kindpakket",
+            "name": "Vincentius St.Michielsgestel",
+            "openingTimes": "Kantooruren",
+            "phone": "0630.630.330",
+            "policies": {
+                "-N9fO2N3uxPSCN6alvQC": {
+                    "incomeLowerThan": "12000",
+                    "name": "Hulpverlening tegen armoede"
+                }
+            },
+            "township": "St.Michielsgestel",
+            "website": "www.vincentiusgestel.nl"
+        },
+        "-N77bcdqcHf-ec74WHqy": {
+            "address": "Meanderplein 1, 5271 GC ",
+            "description": "Wegwijs helpt als het gaat om zorg, welzijn, inkomensondersteuning, schuldhulpverlening, opvoeden, opgroeien en wonen. Wegwijs informeert, adviseert, verwijst en coördineert. Wij gaan ervan uit dat je zelf de regie hebt over jouw eigen leven, dat je weet wat je wilt en zelf kunt kiezen. Wij helpen je om zo snel mogelijk weer zelfstandig deel te nemen aan de samenleving. Met of zonder hulp uit jouw omgeving. We kennen de voorzieningen in jouw wijk en kunnen een beroep doen op onze partners (vrijwillig of professioneel). Als het nodig is, maken we samen met jou een plan met concrete doelstellingen en afspraken. Je hebt een vast aanspreekpunt, die altijd in de buurt is en gemakkelijk bereikbaar. ",
+            "intermediair": "Bibliotheek,Wegwijs",
+            "name": "Wegwijs",
+            "openingTimes": "Het inloopspreekuur is iedere dinsdag in het gemeentehuis tussen 9.00 - 11.00 uur. Op de woensdagen is er ook een inloopspreekuur, maar dan in D’n Durpsherd in Berlicum. Het inloopspreekuur op woensdag is tussen 9.00 - 12.00 uur. ",
+            "phone": " (073) 553 16 00.",
+            "policies": {
+                "-N9fRY4TpHx_JzeWv_Ac": {
+                    "incomeLowerThan": "10000",
+                    "name": "Digitale hulp"
+                },
+                "-N9fRY4UrneTOxB0-gNE": {
+                    "incomeLowerThan": 0,
+                    "name": "bijzondere bijstand"
+                }
+            },
+            "township": "Sint Michielsgestel ",
+            "website": "www.sint-michielsgestel.nl › wegwijs"
+        },
+        "-N77bvBPs1dNRIEQwrYq": {
+            "address": "Meanderplein 3a 5271 GC Sint-Michielsgestel 073-5515432",
+            "description": "Bint voor welzijn & ondersteuning is de brede welzijnsinstelling voor de gemeente Sint-Michielsgestel. De stichting stimuleert inwoners hun talenten in te zetten voor medeburgers en heeft extra aandacht voor kwetsbare groepen.\n\nDe sociaal werkers van Bint zijn te vinden bij mensen thuis, in de gemeenschapshuizen, scholen, bij verenigingen, bij jongeren op straat of in het jongerencentrum.\nWij stimuleren en ondersteunen burgerinitiatieven en het wijkgericht werken.\n\nBij Bint zijn veel vrijwilligers betrokken en die zijn hard nodig om de maatschappelijke opdracht die wij van de gemeente hebben gekregen, te realiseren. \nBint biedt onderdak aan; Jongerenwerk, Buurtsportwerk, Ouderenondersteuning, Mantelzorgondersteuning, Opbouwwerk, Cursussen, Vrijwilligerswerk en Nieuwe Nederlanders.",
+            "intermediair": "gemeente. client,vluchtelingenwerk",
+            "name": "Bint Sint Michielsgestel",
+            "openingTimes": " werkdagen te bereiken van 9.00 - 17.00 uur",
+            "phone": " 073-5515432.",
+            "policies": {
+                "-N9fVEVbzSgjTnHQRagP": {
+                    "incomeLowerThan": "10000",
+                    "name": "Klusteam aan huis"
+                },
+                "-N9fVEVcNIiXbn9dzNfE": {
+                    "hasResidentChildren": true,
+                    "name": "opvang en begeleiding"
+                }
+            },
+            "township": "Sint Michielsgestel",
+            "website": "www.bintwelzijn.nl"
+        },
+        "-N77hQQ_EY2o6Bo3PnkM": {
+            "address": "Exercitation quasi d",
+            "description": "Velit iste ex perspi",
+            "intermediair": "Magnam impedit dolo",
+            "name": "edita",
+            "openingTimes": "Sunt et molestias do",
+            "phone": "Officia laborum Con",
+            "policies": {
+                "-N78t7m9H5gy-qgtvQ8O": {
+                    "hasResidentChildren": false,
+                    "incomeLowerThan": "130",
+                    "monthlyRentHigherThan": "4",
+                    "name": "Graham Bird",
+                    "township": "Quis velit est pari"
+                },
+                "-N78t7mABPIavG9FjmzP": {
+                    "equityLowerThan": "67",
+                    "isEntrepreneur": true,
+                    "monthlyRentHigherThan": "5",
+                    "name": "Lani Horton",
+                    "township": "Amet eveniet repel"
+                }
+            },
+            "township": "Praesentium natus ex",
+            "website": "Debitis voluptatibus"
+        },
+        "-N78_gfEVUs7vllY9CUh": {
+            "address": "Magnam enim est adip",
+            "description": "Dolor anim tenetur o",
+            "intermediair": "Ullamco commodo saep",
+            "name": "3g",
+            "openingTimes": "Excepturi corporis a",
+            "phone": "At ut ratione volupt",
+            "policies": {
+                "-N78vxwkhCTsww3hm7JQ": {
+                    "livingStudentHouse": true,
+                    "name": "Desirae Gallagher",
+                    "township": "Officia corporis arc"
+                }
+            },
+            "township": "Aliquip non sed impe",
+            "website": "Aut ab consectetur r"
+        },
+        "-N78wNAzAy8kvDEZmopV": {
+            "address": "Voluptas ducimus se",
+            "description": "Nisi pariatur Quis ",
+            "intermediair": "Deserunt sint sunt q",
+            "name": "Maxime iure ea ea in",
+            "openingTimes": "Ab aspernatur fugiat",
+            "phone": "Voluptate et saepe e",
+            "policies": {
+                "-N78wNB3QeahNI1uPlxI": {
+                    "equityLowerThan": "8",
+                    "hasDebts": true,
+                    "name": "Hollee English",
+                    "township": "Sint et culpa tempo"
+                }
+            },
+            "township": "Aut itaque perspicia",
+            "website": "Aspernatur adipisci "
+        },
+        "-N79-IMnIlKbbFGNF85v": {
+            "address": "Quam aute dolor ex n",
+            "description": "Aliqua Voluptas id",
+            "intermediair": "Excepteur ad qui vel",
+            "name": "ccff",
+            "openingTimes": "Architecto hic est e",
+            "phone": "Voluptatem rem cons",
+            "policies": {
+                "-N79-WRxfjszL3vEUq1s": {
+                    "name": "ggg",
+                    "township": "fff"
+                }
+            },
+            "township": "Ut ipsum voluptatum ",
+            "website": "Dolore aliquam cillu"
+        },
+        "-N793YUlMrQUs9ps1Az0": {
+            "address": "Quos quis lorem aut ",
+            "description": "Excepteur ullam elit",
+            "intermediair": "Assumenda et nobis v yyyyyyyy",
+            "name": "jj9",
+            "openingTimes": "Impedit at incidunt",
+            "phone": "Inventore cumque per",
+            "policies": {
+                "-N793cAzV0_lwqQKw5w_": {
+                    "monthlyRentHigherThan": "550",
+                    "name": "fv",
+                    "township": "In molestias incidid"
+                }
+            },
+            "township": "Laborum eos et mole",
+            "website": "Maxime laborum error"
+        },
+        "-N795nZu4DkWummk44K8": {
+            "address": "gg",
+            "description": "ff",
+            "intermediair": "cc",
+            "name": "cc",
+            "openingTimes": "ff",
+            "phone": "dd",
+            "policies": {
+                "-N795nZyRm8ftYBUjdDI": {
+                    "equityLowerThan": "450",
+                    "name": "ccf",
+                    "township": "gg3"
+                },
+                "-N795nZz2akSlATOVn5b": {
+                    "monthlyRentHigherThan": "43",
+                    "name": "vbbb",
+                    "township": "ggg4"
+                }
+            },
+            "township": "gg",
+            "website": "ss"
+        },
+        "-N796I9XLaUZhpEc-xQ_": {
+            "address": "Est aut veniam blan",
+            "description": "Earum laboris eos do",
+            "intermediair": "Ad et veritatis pari",
+            "name": "Totam illum quo exe35v",
+            "openingTimes": "Culpa perferendis te",
+            "phone": "Ut fugiat eiusmod q",
+            "policies": {
+                "-N796iEGJRDnx9-8lT2a": {
+                    "incomeLowerThan": "5",
+                    "name": "Emerson Reyes",
+                    "township": "Dolor ratione aut of"
+                },
+                "-N796iEHd4CWHy5xW1z4": {
+                    "isCohabiting": true,
+                    "name": "ff",
+                    "township": "v"
+                }
+            },
+            "township": "Ut sint cupidatat a",
+            "website": "Neque iste quidem id"
+        },
+        "-N7EsEI4YbBBBsOCjCny": {
+            "address": "Et consequatur volup",
+            "description": "Nisi elit porro est",
+            "intermediair": "Pariatur Fugiat imp",
+            "name": "Voluptas provident ",
+            "openingTimes": "Voluptatem Fugiat ",
+            "phone": "Excepteur est consec",
+            "policies": {
+                "-N7EsEIFQemmQKkprvlu": {
+                    "isCohabiting": true,
+                    "name": "Halee Montgomery",
+                    "township": ""
+                }
+            },
+            "township": "ggh",
+            "website": "Corrupti consequunt"
+        },
+        "-N7EsMzRL0ZYbCswNO0m": {
+            "address": "Et doloremque aut am",
+            "description": "Vero ut officiis omn",
+            "intermediair": "Sed consequat Harum",
+            "name": "vv33",
+            "openingTimes": "Aute quia eligendi n",
+            "phone": "Ad ipsa sed atque n",
+            "policies": {
+                "-N7EsU-GdTWSv4uxlgFh": {
+                    "hasResidentChildren": false,
+                    "name": "Yvette Wiley",
+                    "township": ""
+                }
+            },
+            "township": "ge3",
+            "website": "Voluptatum est reru"
+        },
+        "-N7Ew3_t_FdULMYVqUQA": {
+            "address": "",
+            "description": "",
+            "intermediair": "",
+            "name": "eerrt",
+            "openingTimes": "4 f4 ",
+            "phone": "",
+            "policies": {
+                "-N7EwEung0lVzov3V8SF": {
+                    "equityLowerThan": "5",
+                    "hasResidentChildren": true,
+                    "isCohabiting": false,
+                    "name": "ff3"
+                }
+            },
+            "township": "vvd",
+            "website": ""
+        },
+        "-N7Ex-1OcTTpWYozt7Ar": {
+            "address": "",
+            "description": "",
+            "intermediair": "",
+            "name": "cc6",
+            "openingTimes": "",
+            "phone": "",
+            "policies": {
+                "-N7ExPIVozfondlnxa8u": {
+                    "name": "ff"
+                }
+            },
+            "township": "ffdd",
+            "website": ""
+        },
+        "-N7ExUzp5LDWbdScUMIh": {
+            "address": "",
+            "description": "",
+            "intermediair": "",
+            "name": "d455",
+            "openingTimes": "",
+            "phone": "",
+            "policies": {
+                "-N7sq1sHodWfCSg1FavC": {
+                    "incomeLowerThan": "54",
+                    "isEntrepreneur": true,
+                    "name": "g"
+                }
+            },
+            "township": "fg",
+            "website": ""
+        },
+        "-N7PLF7f6QGyzA-kdyXV": {
+            "address": "Vincentiushuis aan De Ketting 20 in Vught",
+            "description": "Stichting Voedselbank Den Bosch en Omstreken helpt huishoudens die om wat voor reden dan ook in financiële problemen zijn gekomen en daardoor in grote armoede leven. Deze huishoudens ontvangen elke week een voedselpakket.\nOp dit moment maakt Stichting Voedselbank Den Bosch en Omstreken gebruik van een aantal uitdeellocaties waar de pakketten samengesteld en uitgedeeld worden aan de cliënten.\nAanmelden via Wegwijs+. Joris van Maanen indiceert. Aparte leefgeldnorm.",
+            "intermediair": "Vincentius, indicatie via Welzijn+",
+            "name": "Voedselbank Vught",
+            "openingTimes": "Het inloopspreekuur is iedere woensdag van 10.00-12.00 uur in het Vincentiushuis aan De Ketting 20 in Vught en iedere maandag van 14.00-15.00 uur in het HelvoirThuis Kloosterstraat 30 Helvoirt.",
+            "phone": "",
+            "policies": {
+                "-N7PLF94kimVzUZIxFHk": {
+                    "incomeLowerThan": "13000",
+                    "name": "Voedselpakket"
+                }
+            },
+            "township": "Vught",
+            "website": "https://www.vincentiusvught.nl"
+        },
+        "-N7zhRdVrRgRfB8zdJsS": {
+            "address": "Welzijn Vught Heuvel 2 5261EE Vught",
+            "description": "Wij Omarmen heeft elke vrijdagmiddag in Jongerencentrum de Elzenburg een ‘winkel’ waar verse groenten, fruit, zuivel, brood, verzorgingsproducten en vaak een verse maaltijd gehaald kan worden door mensen met een minimaal inkomen. Ook de Huiskamer is op vrijdagmiddag in Elzenburg gevestigd, voor een kopje koffie, thee en aandacht. Ervaringsdeskundigen zijn dan aanwezig  voor een gezellig praatje, maar ook om mee te denken, advies te geven of ondersteuning te bieden. Dit alles wordt mogelijk gemaakt door sponsors, donateurs en inwoners van onze gemeente Vught. Zo zijn er ondernemers die wekelijks sponseren, zoals bakkerij Smaak uit Helvoirt, donateurs zoals het Jeugdfonds Vught, inwoners die verzorgingsproducten doneren en natuurlijk incidentele giften vanuit hartverwarmende initiatieven. De houdbare producten worden door Wij Omarmen onder andere via het ruilhoekje op Facebook ingezameld. Leuke kleding en andere spulletjes worden aangeboden en kunnen geruild worden voor allerlei producten die de winkel nodig heeft. Het Vriendenklusteam en de kookclub hebben zich ook bij Wij Omarmen aangesloten.\n\n\n",
+            "intermediair": "Welzijn Vught",
+            "name": "Stichting Wij Omarmen",
+            "openingTimes": "Kantoortijden",
+            "phone": "06-34436074",
+            "policies": {
+                "-N7zmn_6Ql_Bor7Bonhu": {
+                    "hasDebts": true,
+                    "incomeLowerThan": "15000",
+                    "name": "Het boodschappensteuntje"
+                },
+                "-N7zmn_7jyS3ALyW3UiA": {
+                    "name": "Begeleiding door een ervaringsdeskundige"
+                },
+                "-N7zmn_83WOMJoqv6q0n": {
+                    "name": "De Huiskamer, eenzaamheid tegengaan"
+                },
+                "-N7zmn_9m8JwBGOaHz6q": {
+                    "hasDebts": true,
+                    "incomeLowerThan": "15000",
+                    "isEntrepreneur": true,
+                    "name": "Het Ruilhoekje"
+                },
+                "-N7zmn_9m8JwBGOaHz6r": {
+                    "hasDebts": true,
+                    "incomeLowerThan": "15000",
+                    "isEntrepreneur": true,
+                    "name": "Het vrienden klus team"
+                }
+            },
+            "township": "Vught",
+            "website": "https://www.vught.nu/wij-omarmen-een-geweldige-start-dankzij-vele-betrokken-inwoners/"
+        },
+        "-N7zs5etQBMlo1RvvEBl": {
+            "address": "Secr. van Rooijstraat 15261 EP Vught , Postbus 101005260 GA Vught",
+            "description": "Wegwijs+\nEven voorstellen...Wegwijs+\nWegwijs+ is een samenwerking van verschillende organisaties. Hier kunt u als inwoner van de gemeente Vught, Cromvoirt  en Helvoirt terecht met al uw vragen, zorgen en signalen op het gebied van:\n\nwerk en inkomen\nhulpverlening en ondersteuning\nopvoeding\nbegeleiding en wonen\nAdvies en ondersteuning\nU kunt bij Wegwijs+ terecht voor advies en informatie. Wij denken met u mee bij het organiseren van eigen oplossingen en steun binnen uw (sociale) omgeving. Uw vraag en eigen mogelijkheden zijn hierbij het uitgangspunt. Zo houdt u zoveel mogelijk zelf de regie over uw situatie. Op de sociale kaart kunt u zien welke mogelijkheden er in Vught, Cromvoirt en Helvoirt zijn voor sociale activiteiten en ondersteuning. Deze zijn voor iedereen toegankelijk.\nHebt u daarnaast meer ondersteuning nodig? Bijvoorbeeld in de vorm van gezinshulp, maatschappelijk werk, hulpmiddelen of begeleiding? Dan zorgen wij ervoor dat dit georganiseerd wordt. Daarbij leveren wij maatwerk, met als uitgangspunt dat u zoveel mogelijk zelfstandig en zelfredzaam blijft.\n\nWanneer contact met Wegwijs+ opnemen?\nHebt u zelf of heeft iemand in uw omgeving advies of ondersteuning van Wegwijs+ nodig? Bijvoorbeeld als het niet meer lukt om het huishouden te doen of er financiële zorgen zijn? Hebt u opvoedingsvragen of dreigen mantelzorgers overbelast te raken? Neem contact op met Wegwijs+. Wacht daar niet te lang mee. Hoe eerder u komt, hoe beter en sneller we u kunnen adviseren of helpen.  \n\nAfspraak? We komen bij u thuis\nWegwijs+ werkt op afspraak. Deze afspraak bestaat uit één of meerdere gesprekken om uw persoonlijke situatie en hulpvraag goed in beeld te krijgen. Dit kan bij u thuis, op het gemeentekantoor of op een andere passende locatie. Hieraan zijn geen kosten verbonden. U hebt geen verwijzing van de huisarts nodig. Natuurlijk kunt u bij zo'n gesprek een kennis of familielid vragen u te ondersteunen. U kunt zich ook kosteloos laten bijstaan door een cliëntondersteuner. ",
+            "intermediair": "",
+            "name": "Wegwijs +",
+            "openingTimes": "U kunt van maandag tot en met donderdag van 9.00 tot 17.00---vrijdag van 9.00 tot 12.30",
+            "phone": "073 - 658 07 50 ",
+            "policies": {
+                "-N8cslmXRTcDyxqzNLIV": {
+                    "hasResidentChildren": true,
+                    "name": "Verplichte schoolreisjes, kampen"
+                },
+                "-N8cslmYUDD40qCj-lE3": {
+                    "hasResidentChildren": true,
+                    "name": "Kinderopvang"
+                },
+                "-N8cslmZ76eThGWZnE5Z": {
+                    "incomeLowerThan": "11000",
+                    "name": "Overblijven"
+                },
+                "-N8cslm_RMNBxEB5qvaC": {
+                    "incomeLowerThan": "11000",
+                    "name": "Schoolspullen,pc,laptop,tablet"
+                },
+                "-N8cslm_RMNBxEB5qvaD": {
+                    "incomeLowerThan": "11000",
+                    "name": "Fiets"
+                },
+                "-N8cslmbAJI60SRyWfrE": {
+                    "incomeLowerThan": "11000",
+                    "name": "Telefoon"
+                },
+                "-N8cslmcG_YiOzgT-20t": {
+                    "incomeLowerThan": "11000",
+                    "name": "Meedoen in de maatschappij?"
+                },
+                "-N8cslmcG_YiOzgT-20u": {
+                    "incomeLowerThan": "11000",
+                    "name": "Meedoen regeling"
+                },
+                "-N8cslmdh8zi1hvqVF_f": {
+                    "incomeLowerThan": "11000",
+                    "name": "Gemeentelijk sociaal fonds "
+                },
+                "-N8cslmdh8zi1hvqVF_g": {
+                    "incomeLowerThan": "11000",
+                    "name": "Schuldhulpverlening"
+                },
+                "-N8cslme2CeIekDO_KQD": {
+                    "hasDebts": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Voedselbank (aparte leefgeld vorm)"
+                },
+                "-N8cslmflVY0Ck_-yQiu": {
+                    "hasDebts": true,
+                    "name": "Proffesional helpt bij complexere financiele schulden b.v.  : < 20.000  eigen bedrijf, belastingdienst."
+                },
+                "-N8cslmflVY0Ck_-yQiv": {
+                    "incomeLowerThan": "11000",
+                    "name": "Bijzondere kosten die nergens worden vergoed, bijzondere bijstand."
+                },
+                "-N8cslmgRSFlqJ0nQLnb": {
+                    "name": "Aparte leefgeld norm"
+                },
+                "-N8cslmgRSFlqJ0nQLnc": {
+                    "name": "Vught.nl zorg - en - onderstuening "
+                },
+                "-N8cslmhEaXuNdsvKHZG": {
+                    "incomeLowerThan": "11000",
+                    "name": "Collectieve zorgverzekering"
+                },
+                "-N8cslmiB6JnkY0V_vZa": {
+                    "hasDebts": true,
+                    "hasResidentChildren": true,
+                    "incomeLowerThan": "11000",
+                    "name": "Geen recht op kinderopvangtoeslag, kun je in aanmerking komen voor de peuteropvang"
+                }
+            },
+            "township": "Vught",
+            "website": "https://wegwijsplus.vught.nl/wegwijs"
+        },
+        "-N8TK1q7lenklK9CNx8Q": {
+            "address": "Stichting Leergeld Vught e.o. Postadres: Leergeld “De Petrus” Heuvel 2 5261 EE  Vught",
+            "description": "Steeds meer kinderen in Nederland kunnen om financiële redenen niet meedoen aan activiteiten die voor hun leeftijdsgenootjes heel normaal zijn. Zij staan vaak letterlijk aan de zijlijn. Leergeld wil deze kinderen mee laten doen!\n\nVia ruim 100 lokale Leergeld stichtingen biedt zij deze kinderen kansen om te kunnen deelnemen aan binnen- en buitenschoolse activiteiten. Leergeld biedt hen hiermee een springplank, waardoor zij opbloeien, kennis en vaardigheden ontwikkelen en eigenwaarde krijgen.",
+            "intermediair": "Mevrouw Nicole Slenders De heer Paul de Ruijter Mevrouw Benita van der Pasch De heer Mark Schollen Mevrouw Carla van Herpen Mevrouw Ingrid van Wijnen Mevrouw Monica Pelser Mevrouw Femke van de Ven Mevrouw Bauke van Uden Mevrouw Darja Boers",
+            "name": "Leergeld Vught",
+            "openingTimes": "Maandag\t09:00-19:30 uur Dinsdag\t09:00-17:00 uur Woensdag\t09:00-17:00 uur",
+            "phone": "06 – 543 87 803",
+            "policies": {
+                "-N8TX1IymtUkhFdlL0zd": {
+                    "incomeLowerThan": "11000",
+                    "name": "Verplichte schoolreisjes, kampen"
+                },
+                "-N8TX1Izor465pUMUzCB": {
+                    "incomeLowerThan": "11000",
+                    "name": "Verplichte schoolkosten, bv kluisje"
+                },
+                "-N8TX1J-c2gxFM_O25Ry": {
+                    "incomeLowerThan": "11000",
+                    "name": "Testen, cursussen, examens"
+                }
+            },
+            "township": "Vught",
+            "website": "https://www.leergeld.nl/vught/"
+        },
+        "-N9GGXRU8Yx44l2OO2h1": {
+            "address": "Keizer Karel V Singel 45 Eindhoven Postadres: Postbus 922, 5600 AX Eindhoven",
+            "description": " DUURZAME FINANCIËLE DIENSTVERLENING\n\nVaak ontstaan er problemen als het niet meer lukt om aan je financiële verplichtingen te voldoen. We ondersteunen je bij het op orde brengen en houden van je inkomsten en uitgaven. Als je schulden hebt dan brengen we deze samen met jou in kaart en stellen we een plan op om hieruit te komen.\n\nBUDGETBEHEER\n\nMet Budgetbeheer breng je orde en rust in jouw financiële situatie. We helpen je dat je ervoor zorgt dat betalingen op tijd gedaan worden en dat er geen (nieuwe) schulden of betalingsachterstanden ontstaan. Budgetbeheer houdt in dat je inkomsten tijdelijk worden beheerd en dat betalingen in overleg met jouw persoonlijke begeleider plaatsvinden. Je krijgt in deze situatie een zogenaamde budgetbeheerrekening zodat je met hulp van de budgetbeheerder de juiste uitgaven doet en geen schulden creëert.\n\nBUDGETCOACHING\n\nBudgetcoaches helpen je bij het zelfstandig beheren van je geld. Zodat je uiteindelijk zelf je financiële huishouding voert. We brengen orde op zaken en we geven je handvatten om het ook zo te houden. Tijdens het traject zie je waar je geld naar toe gaat en leer je hoe je een kasboek kunt bijhouden.",
+            "intermediair": "",
+            "name": "Neos",
+            "openingTimes": "9.30 - 12.30",
+            "phone": " 040-2501580",
+            "policies": {
+                "-N9GGXRbbejfanZ0loq3": {
+                    "name": "Budgetcoaching"
+                },
+                "-N9GGXRcE02KhFMeivlG": {
+                    "name": "Budgetbeheer"
+                }
+            },
+            "township": "Eindhoven",
+            "website": "www.neos.nl"
+        },
+        "-N9GJixp0tivl7nxpcFx": {
+            "address": "Beemdstraat 29, 5653 MA Eindhoven Postadres: Postbus 2077, 5600 CB Eindhoven",
+            "description": "Grip op de knip, training\nDoel:\nNa afloop van de training hebben deelnemers:\n· relevante informatie en/of advies gekregen;\n· meer inzicht in hun problemen en vragen;\n· zicht op mogelijke oplossingen.",
+            "intermediair": "",
+            "name": "Lumens",
+            "openingTimes": "9.00 - 17.00",
+            "phone": "040-2193300",
+            "policies": {
+                "-N9GJixvoipQvkOVoOHY": {
+                    "name": "Training"
+                }
+            },
+            "township": "Eindhoven",
+            "website": "www.lumenswerkt.nl"
+        },
+        "-N9GMgBEPJwvPTXrMLsC": {
+            "address": "Van Nelleweg 1 (Hal K & Hal L) Rotterdam",
+            "description": "Jarige Job geeft geen geld maar een complete verjaardagsbox aan de ouders zodat zij van de verjaardag van hun kind een echte feestdag kunnen maken.Jarige Job geeft geen geld maar een complete verjaardagsbox aan de ouders zodat zij van de verjaardag van hun kind een echte feestdag kunnen maken.\n\nJarige Job werkt samen met de Voedselbank. Van de gezinnen die daar geregistreerd staan, is het duidelijk dat ze in financiële nood verkeren. Via de Voedselbank worden de anonieme boxen verspreid onder de ouders. Tevens werkt Stichting Jarige Job samen met andere maatschappelijke organisaties en instellingen die zich richten op de allerarmsten in Nederland. Zoals Jeugdsportfonds, Jeugdcultuurfonds, St. Leergeld en Het Vergeten Kind.\n",
+            "intermediair": "",
+            "name": "Jarige Job Trakteert",
+            "openingTimes": "nvt",
+            "phone": " 010 – 737 03 48",
+            "policies": {
+                "-N9GMgBKuD9wUk7yk09e": {
+                    "hasResidentChildren": true,
+                    "name": "Verjaardagbox"
+                }
+            },
+            "township": "Eindhoven",
+            "website": "www.stichtingjarigejob.nl"
+        }
+    }
+}
