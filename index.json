@@ -2,7 +2,7 @@
   {
     "project": "Blueriq Virtueel inkomensloket",
     "work-package-name": "Blueriq-virtueel-inkomensloket",
-    "work-package-issue-url": "",
+    "work-package-issue-url": "https://www.blueriq.com/",
     "short-description": "Web service used to calculate \"individuele inkomenstoeslag\" with Blueriq rules",
     "software-language": [
       "Blueriq",
