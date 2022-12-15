@@ -1,5 +1,18 @@
 [
   {
+    "project": "Voorzieningen PoC",
+    "work-package-name": "voorzieningen_poc",
+    "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/51",
+    "short-description": "Proof of concept API Voorzieningen",
+    "software-language": [
+      "PHP",
+      "MySQL",
+      "Scriptcase"
+    ],
+    "contact name": "Marcel Krassenburg",
+    "contact email": "marcel@ccoverheid.nl"
+  },
+  {
     "project": "ZoVis client",
     "work-package-name": "zovis-client",
     "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/18",
