@@ -1,0 +1,66 @@
+<Module>
+	<Adapter name="ExecuteRegels" description="This adapter executes regelingen">
+		<Receiver name="ExecuteRegels">
+			<Listener name="ExecuteRegels" className="nl.nn.adapterframework.http.rest.ApiListener"
+			uriPattern="regels/execute" method="POST"/>
+		</Receiver>
+		<Pipeline firstPipe="Json2Xml">
+			<Exits>
+				<Exit name="EXIT" state="success" code="200"/>
+				<Exit name="NotModified" state="success" code="304" empty="true" />
+				<Exit name="BadRequest" state="error" code="400" empty="true" />
+				<Exit name="NotAuthorized" state="error" code="401" empty="true" />
+				<Exit name="NotAllowed" state="error" code="403" empty="true" />
+				<Exit name="ServerError" state="error" code="500" />
+			</Exits>
+
+			<Json2XmlValidatorPipe
+				name="Json2Xml"
+				schema="Common/xsd/regelsExecuteInput.xsd"
+				root="executionRequest"
+				throwException="true"
+				storeResultInSessionKey="originalXML"
+			/>
+
+			<XsltPipe
+				name="TransformRegels"
+				styleSheetName="Common/xsl/createMessageBody.xsl"
+			/>
+
+			<Json2XmlValidatorPipe
+				name="Xml2Json"
+				outputFormat="json"
+				schema="Common/xsd/regelsToJson.xsd"
+				throwException="true"
+				root="variables"
+				jsonWithRootElements="true"
+				storeResultInSessionKey="messageBody"
+			/>
+
+			<ForEachChildElementPipe 
+				name="SendRegels"
+				getInputFromSessionKey="originalXML"
+				elementXPathExpression="/executionRequest/regels/regel">
+
+				<IbisJavaSender name="RegelsSender" serviceName="SendRegels">
+					<Param name="url" xpathExpression="regel/regelExecutie"/>
+					<Param name="message" sessionKey="messageBody"/>
+				</IbisJavaSender>
+			</ForEachChildElementPipe>
+		</Pipeline>
+	</Adapter>
+
+	<Adapter name="SendRegels">
+		<Receiver name="SendRegels" >
+			<JavaListener name="SendRegels" serviceName="SendRegels"/>
+		</Receiver>
+		<Pipeline firstPipe="CallApi">
+			<Exit name="EXIT" state="success"/>
+			<SenderPipe name="CallApi" getInputFromSessionKey="message">
+				<HttpSender name="CallApi" contentType="application/json" charSet="" methodType="POST" username="vil" password="vil-regels">
+					<Param name="url" sessionKey="url"/>
+				</HttpSender>
+			</SenderPipe>
+		</Pipeline>
+	</Adapter>
+</Module>
