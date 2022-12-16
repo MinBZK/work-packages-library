@@ -13,6 +13,17 @@
     "contact email": "marcel@ccoverheid.nl"
   },
   {
+    "project": "regels-API",
+    "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/19",
+    "short-description": "API that return regelingen based on metadata",
+    "software-language": [
+      "FrankFramework(xml)",
+      "Typescript(Angular)"
+    ],
+    "contact name": "Diederik Kerkhof",
+    "contact email": "diede@wearefrank.nl"
+  },
+  {
     "project": "ZoVis client",
     "work-package-name": "zovis-client",
     "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/18",
@@ -26,24 +37,6 @@
     "contact email": "tim@iwize.nl"
   },
   {
-    "__comment__": "this is the first project in the index",
-    "project": "<name of the project>",
-    "work-package-name": "<name of the work package>",
-    "work-package-issue-url": "<issue url of the work package originally assigned>",
-    "short-description": "<short description of the deliverable>",
-    "software-language": [
-      "<array of programming language(s) and/or framework(s) used>",
-      "<array of programming language(s) and/or framework(s) used>"
-    ],
-    "optional-items": {
-      "a": "b",
-      "c": "d"
-    },
-    "contact name": "<name surname>",
-    "contact email": "<email address>"
-  },
-  {
-    "__comment__": "this is the first project in the index",
     "project": "<name of the project>",
     "work-package-name": "<name of the work package>",
     "work-package-issue-url": "<issue url of the work package originally assigned>",

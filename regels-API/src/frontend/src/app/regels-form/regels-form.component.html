@@ -1,0 +1,87 @@
+<div class="main-container">
+	<form [formGroup]="regelsForm" (ngSubmit)="onSubmit()" class="form">
+		<div class="title">Welcome</div>
+		<div class="subtitle">Start met het invoeren van de velden!</div>
+		<div class="input-container ic1">
+			<input id="datum" class="input" type="date" formControlName="datum" placeholder=" ">
+			<div class="cut"></div>
+			<label for="datum" class="placeholder">Datum</label>
+			<div class="required" *ngIf="regelsForm.get('datum')?.hasError('required')">Verplicht</div>
+		</div>
+
+		<div class="input-container ic1">
+			<input id="leeftijd" class="input" type="number" formControlName="leeftijd" placeholder=" ">
+			<div class="cut"></div>
+			<label for="leeftijd" class="placeholder">Leeftijd</label>
+			<div class="required" *ngIf="regelsForm.get('leeftijd')?.hasError('required')">Verplicht</div>
+		</div>
+
+		<div class="input-container ic1">
+			<input id="plaats" class="input" type="text" formControlName="plaats" placeholder=" ">
+			<div class="cut"></div>
+			<label for="plaats" class="placeholder">Plaats</label>
+			<div class="required" *ngIf="regelsForm.get('plaats')?.hasError('required')">Verplicht</div>
+		</div>
+
+		<div class="input-container ic1">
+			<input id="inkomen" class="input" type="number" formControlName="inkomen" placeholder=" ">
+			<div class="cut"></div>
+			<label for="inkomen" class="placeholder">Inkomen</label>
+			<div class="required" *ngIf="regelsForm.get('inkomen')?.hasError('required')">Verplicht</div>
+		</div>
+
+		<div class="input-container ic1">
+			<input id="woonkosten" class="input" type="number" formControlName="woonkosten" placeholder=" ">
+			<div class="cut"></div>
+			<label for="woonkosten" class="placeholder">Woonkosten</label>
+			<div class="required" *ngIf="regelsForm.get('woonkosten')?.hasError('required')">Verplicht</div>
+		</div>
+
+		<div class="input-container ic1">
+			<input id="vermogen" class="input" type="number" formControlName="vermogen" placeholder=" ">
+			<div class="cut"></div>
+			<label for="vermogen" class="placeholder">Vermogen</label>
+			<div class="required" *ngIf="regelsForm.get('vermogen')?.hasError('required')">Verplicht</div>
+		</div>
+
+		<app-button class="submit" type="submit" [disabled]="!regelsForm.valid" [buttonText]="'Zoeken'"></app-button>
+	</form>
+
+	<div class="table-container">
+		<ng-template #loadingId><app-loader></app-loader></ng-template>
+
+		<div class="title">Mijn Regels</div>
+		<table class="table text-center" *ngIf="!loading; else loadingId">
+			<thead>
+				<tr>
+					<th class="text-center">Regelnaam</th>
+					<th class="text-center">startDatum</th>
+					<th class="text-center">eindDatum</th>
+					<th class="text-center">startLeeftijd</th>
+					<th class="text-center">eindLeeftijd</th>
+					<th class="text-center">plaats</th>
+					<th class="text-center">inkomenTot</th>
+					<th class="text-center">woonkostenTot</th>
+					<th class="text-center">vermogenTot</th>
+					<th class="text-center">regelExecutie</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr *ngFor="let regel of regels">
+					<td class="text-center">{{regel.regelNaam}}</td>
+					<td class="text-center">{{regel.startDatum}}</td>
+					<td class="text-center">{{regel.eindDatum}}</td>
+					<td class="text-center">{{regel.startLeeftijd}}</td>
+					<td class="text-center">{{regel.eindLeeftijd}}</td>
+					<td class="text-center">{{regel.plaats}}</td>
+					<td class="text-center">{{regel.inkomenTot}}</td>
+					<td class="text-center">{{regel.woonkostenTot}}</td>
+					<td class="text-center">{{regel.vermogenTot}}</td>
+					<td class="text-center">{{regel.regelExecutie}}</td>
+				</tr>
+			</tbody>
+		</table>
+
+		<app-button class="button" (click)="executeRegels()" [buttonText]="'Uitvoeren'"></app-button>
+	</div>
+</div>
