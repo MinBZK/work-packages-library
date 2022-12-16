@@ -49,19 +49,15 @@
     "contact email": "tim@iwize.nl"
   },
   {
-    "project": "<name of the project>",
-    "work-package-name": "<name of the work package>",
-    "work-package-issue-url": "<issue url of the work package originally assigned>",
-    "short-description": "<short description of the deliverable>",
+    "project": "Doccle demonstrator VIL",
+    "work-package-name": "doccle-demonstrator-vil",
+    "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/21",
+    "short-description": "Demonstrates automatic apply of rule sets defined by governement on data of citizen",
     "software-language": [
-      "<array of programming language(s) and/or framework(s) used>",
-      "<array of programming language(s) and/or framework(s) used>"
+      "Python",
+      "RESTful APIs"
     ],
-    "optional-items": {
-      "a": "b",
-      "c": "d"
-    },
-    "contact name": "<name surname>",
-    "contact email": "<email address>"
+    "contact name": "Maikel Mertens",
+    "contact email": "maikel.mertens@doccle.nl"
   }
 ]
