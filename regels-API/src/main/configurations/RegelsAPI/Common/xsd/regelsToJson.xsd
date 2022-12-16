@@ -1,0 +1,48 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="variables">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="plaats">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="value"/>
+              <xs:element type="xs:string" name="type"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="leeftijd">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:integer" name="value"/>
+              <xs:element type="xs:string" name="type"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="inkomen">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:integer" name="value"/>
+              <xs:element type="xs:string" name="type"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="woonkosten">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:integer" name="value"/>
+              <xs:element type="xs:string" name="type"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="vermogen">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:integer" name="value"/>
+              <xs:element type="xs:string" name="type"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
