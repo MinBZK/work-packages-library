@@ -1,6 +1,18 @@
 [
   {
-    "__comment__": "Regelingen API",
+    "project": "Voorzieningen PoC",
+    "work-package-name": "voorzieningen_poc",
+    "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/51",
+    "short-description": "Proof of concept API Voorzieningen",
+    "software-language": [
+      "PHP",
+      "MySQL",
+      "Scriptcase"
+    ],
+    "contact name": "Marcel Krassenburg",
+    "contact email": "marcel@ccoverheid.nl"
+  },
+  {
     "project": "regels-API",
     "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/19",
     "short-description": "API that return regelingen based on metadata",
@@ -25,7 +37,6 @@
     "contact email": "tim@iwize.nl"
   },
   {
-    "__comment__": "this is the first project in the index",
     "project": "<name of the project>",
     "work-package-name": "<name of the work package>",
     "work-package-issue-url": "<issue url of the work package originally assigned>",
