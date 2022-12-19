@@ -76,7 +76,7 @@ Het model is voorbereid op het toepassen van regels op de beschikbaarheid van ee
 
 
 
-![](PoC Voorzieningen met Harmonisator.assets/ConceptueelGegevensmodelVoorzieningen2.jpg)
+<img src="PoC Voorzieningen met Harmonisator.assets/ConceptueelGegevensmodelVoorzieningen2.jpg">
 
 *Conceptueel gegevensmodel Voorzieningen, gemaakt met Sparx EA.*
 
@@ -98,7 +98,7 @@ Het schema 'samenwerken' is een voorbereiding op een generiek deelsysteem met ve
 
 De term/entiteit 'voorziening' heeft attributen die met de relatie 'kenmerk' zijn opgenomen. In de PoC zijn deze voorzien van een eenvoudig datatype en lengte.
 
-![Logisch gegevensmodel](PoC Voorzieningen met Harmonisator.assets/image-20221208153611534.png)
+<img src="PoC Voorzieningen met Harmonisator.assets/image-20221208153611534.png">
 
 *Voorbeeld schermafdruk attributen van voorziening*
 
@@ -144,13 +144,13 @@ CREATE TABLE facility  (
 
 Lijstfunctie en onderhoudsscherm voor Voorziening (facility) met Scriptcase voor invoer proefgegevens. Scriptcase is een PHP=codegenerator, een low-code ontwikkeltool, voor kleinschalig gebruik. Handig voor niet-programmeurs om snel CRUD-functies te maken om te prototypen en om gegevensbehoefte en specificaties te verkennen.  
 
-![image-20221208154355277](PoC Voorzieningen met Harmonisator.assets/image-20221208154355277.png)
+<img src="PoC Voorzieningen met Harmonisator.assets/image-20221208154355277.png">
 
 *Voorbeeld schermafdruk overzicht voorziening met zoek- en groepeerfunctie*
 
 
 
-![image-20221208144215733](PoC Voorzieningen met Harmonisator.assets/image-20221208144215733.png)
+<img src="PoC Voorzieningen met Harmonisator.assets/image-20221208144215733.png">
 
 *Voorbeeld schermafdruk enkel record voorziening*
 
@@ -172,7 +172,7 @@ Vanuit de MySQL database kunnen met de API.php ([Github - Maurits van der Schee]
 
 http://localhost/harmonisator/api.php/records/facility
 
-![image-20221208144734690](PoC Voorzieningen met Harmonisator.assets/image-20221208144734690.png)
+<img src="PoC Voorzieningen met Harmonisator.assets/image-20221208144734690.png">
 
 *Voorbeeld schermafdruk deel van resultaat.*
 
@@ -180,7 +180,7 @@ http://localhost/harmonisator/api.php/records/facility
 
 http://localhost/harmonisator/api.php/records/facility_view
 
-![image-20221208145026655](PoC Voorzieningen met Harmonisator.assets/image-20221208145026655.png)
+<img src="PoC Voorzieningen met Harmonisator.assets/image-20221208145026655.png">
 
 *Voorbeeld schermafdruk deel van resultaat op view.*
 
@@ -190,5 +190,5 @@ http://localhost/harmonisator/api.php/records/facility_view
 
 Vanuit de API zijn diverse toepassingen te maken. Bijvoorbeeld een zoekfunctie voor ouders.
 
-![image-20221208155014680](PoC Voorzieningen met Harmonisator.assets/image-20221208155014680.png)
+<img src="PoC Voorzieningen met Harmonisator.assets/image-20221208155014680.png">
 
