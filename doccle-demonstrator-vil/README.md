@@ -8,7 +8,7 @@ Additionally you are able to administer your personal information on this very s
 For more information please go to: [https://doccle.nl/](https://doccle.nl/).
 
 ## Contact
-If you are interested, have questions, or would like to receive more information, you can reach out to Otto Lagemaat on email address: [otto.lagemaat@doccle.nl](mailto:otto.lagemaat@doccle.nl).
+If you are interested, have questions, or would like to receive more information, you can reach out to Otto Lagemaat on email address: [otto.lagemaat@doccle.nl](mailto:otto.lagemaat@doccle.nl) or by phone: [+31 (0)6 4327 5376](tel:+31643275376).
 
 
 # Purpose
@@ -21,7 +21,7 @@ A citizen living in the municipality of Utrecht wants to know whether they are e
 2. The citizen updates her/his information (i.e. their yearly income, marital status, age and such);
 3. Doccle checks on the VIL rule set engine if the citizen is eligible for an allowance;
 4. In case of a positive result, a form (in PDF) will be automatically generated with her/his allowance;
-5. The citizen only needs to send out this form towards the municipality of Utrecht
+5. The citizen only needs to send out this form towards the municipality of Utrecht.
 
 ### Video
 This video demonstrates the process described above. It's in Dutch.
