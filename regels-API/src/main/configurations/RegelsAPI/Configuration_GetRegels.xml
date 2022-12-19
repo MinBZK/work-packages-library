@@ -1,0 +1,56 @@
+<Module>
+	<Adapter name="GetRegels" description="This adapter gets regelingen">
+		<Receiver name="GetRegels">
+			<Listener name="GetRegels" className="nl.nn.adapterframework.http.rest.ApiListener"
+			uriPattern="regels" />
+		</Receiver>
+		<Pipeline firstPipe="GetRegels">
+			<Exits>
+				<Exit name="EXIT" state="success" code="200"/>
+				<Exit name="NotModified" state="success" code="304" empty="true" />
+				<Exit name="BadRequest" state="error" code="400" empty="true" />
+				<Exit name="NotAuthorized" state="error" code="401" empty="true" />
+				<Exit name="NotAllowed" state="error" code="403" empty="true" />
+				<Exit name="ServerError" state="error" code="500" />
+			</Exits>
+
+			<SenderPipe 
+				name="GetRegels" 
+				storeResultInSessionKey="regels"
+			>
+				<Sender
+					className="nl.nn.adapterframework.jdbc.FixedQuerySender"
+					queryType="select"
+					useNamedParams="true"
+					query="SELECT * FROM REGELS WHERE 
+					(?{datum} &gt;= START_DATUM AND ?{datum} &lt;= EIND_DATUM) 
+					AND (?{leeftijd} &gt;= START_LEEFTIJD AND ?{leeftijd} &lt;= EIND_LEEFTIJD) 
+					AND PLAATS = LOWER(?{plaats}) 
+					AND ?{inkomen} &lt;= INKOMEN_TOT
+					AND ?{woonkosten} &lt;= WOONKOSTEN_TOT 
+					AND ?{vermogen} &lt;= VERMOGEN_TOT"
+				/>
+				
+				<Param name="datum" type="date" sessionKey="datum" />
+				<Param name="leeftijd" sessionKey="leeftijd"/>
+				<Param name="plaats" sessionKey="plaats"/>
+				<Param name="inkomen" sessionKey="inkomen"/>
+				<Param name="woonkosten" sessionKey="woonkosten"/>
+				<Param name="vermogen" sessionKey="vermogen"/>
+			</SenderPipe>
+
+			<XsltPipe
+				name="TransformNaarRegels"
+				styleSheetName="Common/xsl/transformRegels.xsl"
+			/>
+
+			<Json2XmlValidatorPipe
+				name="Json2Xml"
+				outputFormat="json"
+				schema="Common/xsd/regelsOutput.xsd"
+				root="regels"
+				throwException="true"
+			/>
+		</Pipeline>
+	</Adapter>
+</Module>

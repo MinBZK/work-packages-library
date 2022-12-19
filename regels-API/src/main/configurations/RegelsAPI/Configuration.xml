@@ -1,0 +1,10 @@
+<!DOCTYPE configuration [
+	<!ENTITY GetRegels		SYSTEM "./Configuration_GetRegels.xml">
+	<!ENTITY ExecuteRegels		SYSTEM "./Configuration_ExecuteRegels.xml">
+]>
+
+<configuration>
+	&GetRegels;
+	&ExecuteRegels;
+</configuration>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<databaseChangeLog
+	xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+		http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+
+	<changeSet id="REGELS CREATE" author="Diederik">
+		<comment>Add REGELS Table</comment>
+		<createTable tableName="REGELS">
+			<column name="ID" type="int" autoIncrement="true">
+				<constraints primaryKey="true" nullable="false" primaryKeyName="PK_IDENTIFICATIE"/>
+			</column>
+			<column name="REGELING_NAME"        type="varchar(255)"/>
+			<column name="START_DATUM"          type="date"/>
+			<column name="EIND_DATUM"           type="date"/>
+			<column name="START_LEEFTIJD"       type="int"/>
+			<column name="EIND_LEEFTIJD"        type="int"/>
+			<column name="PLAATS"               type="varchar(255)"/>
+			<column name="INKOMEN_TOT"          type="int"/>
+			<column name="WOONKOSTEN_TOT"       type="int"/>
+			<column name="VERMOGEN_TOT"         type="int"/>
+			<column name="REGELING_EXECUTIE"    type="varchar(255)"/>
+		</createTable>
+	</changeSet>
+
+	<changeSet id="REGELS TESTDATA Insert" author="Diederik">
+		<sql>
+			INSERT INTO REGELS (REGELING_NAME, START_DATUM, EIND_DATUM, START_LEEFTIJD, EIND_LEEFTIJD, PLAATS, INKOMEN_TOT, WOONKOSTEN_TOT, VERMOGEN_TOT, REGELING_EXECUTIE)
+			VALUES ('regel test', DATE '2003-12-01', DATE '2030-12-01', 30, 45, 'zoetermeer', 50000, 15000, 100000, 'executie plaats/link'),
+			('regel naam', DATE '2006-12-01', DATE '2023-12-01', 40, 60, 'zoetermeer', 70000, 35000, 200000, 'executie plaats/link'),
+			('regel nummer 12', DATE '20012-12-01', DATE '2020-12-01', 80, 99, 'zoetermeer', 150000, 100000, 600000, 'executie plaats/link'),
+			('regel derde', DATE '2000-12-01', DATE '2003-12-01', 30, 39, 'den haag', 23000, 65000, 20000, 'executie plaats/link'),
+			('regel eerste', DATE '2001-12-01', DATE '2006-01-01', 50, 60, 'zoetermeer', 50000, 85000, 35000, 'executie plaats/link'),
+			('regel laatste', DATE '2007-12-01', DATE '2040-12-01', 24, 75, 'den haag', 100000, 60000, 200000, 'executie plaats/link');
+		</sql>
+	</changeSet>
+
+	<changeSet id="delete-data" author="Diede Kerkhof"> <delete tableName="REGELS"> </delete> </changeSet>
+
+	<changeSet id="REGELS TESTDATA Insert New" author="Steven">
+		<sql>
+			INSERT INTO REGELS (REGELING_NAME, START_DATUM, EIND_DATUM, START_LEEFTIJD, EIND_LEEFTIJD, PLAATS, INKOMEN_TOT, WOONKOSTEN_TOT, VERMOGEN_TOT, REGELING_EXECUTIE)
+			VALUES ('DecisionService 1', DATE '2003-12-01', DATE '2030-12-01', 30, 45, 'utrecht', 50000, 15000, 100000, 'https://vil-regels.nl:8443/engine-rest/decision-definition/key/Decision_1k9uuid/evaluate'),
+			('Runtime Blueriq 1', DATE '2006-12-01', DATE '2023-12-01', 40, 60, 'utrecht', 70000, 35000, 200000, 'https://vil-regels.nl:8443/engine-rest/decision-definition/key/Decision_1k9uuid/evaluate'),
+			('DMN 1', DATE '20012-12-01', DATE '2020-12-01', 80, 99, 'utrecht', 150000, 100000, 600000, 'https://vil-regels.nl:8443/engine-rest/decision-definition/key/Decision_1k9uuid/evaluate'),
+			('DecisionService 2', DATE '2000-12-01', DATE '2003-12-01', 30, 39, 'amersfoort', 3000, 65000, 20000, 'https://vil-regels.nl:8443/engine-rest/decision-definition/key/Decision_1k9uuid/evaluate'),
+			('Runtime Blueriq 2', DATE '2001-12-01', DATE '2006-01-01', 50, 60, 'amersfoort', 50000, 85000, 35000, 'https://vil-regels.nl:8443/engine-rest/decision-definition/key/Decision_1k9uuid/evaluate'),
+			('DMN 2', DATE '2007-12-01', DATE '2040-12-01', 24, 75, 'amersfoort', 100000, 60000, 200000, 'https://vil-regels.nl:8443/engine-rest/decision-definition/key/Decision_1k9uuid/evaluate');
+		</sql>
+	</changeSet>
+
+</databaseChangeLog>
