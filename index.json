@@ -1,5 +1,17 @@
 [
   {
+    "project": "Blueriq Virtueel inkomensloket",
+    "work-package-name": "Blueriq-virtueel-inkomensloket",
+    "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/29",
+    "short-description": "Web service used to calculate \"individuele inkomenstoeslag\" with Blueriq rules",
+    "software-language": [
+      "Blueriq",
+      "Java"
+    ],
+    "contact name": "Gijsbert de Wolff",
+    "contact email": "g.de.wolff@blueriq.com"
+  },
+  {
     "project": "Voorzieningen PoC",
     "work-package-name": "voorzieningen_poc",
     "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/51",
