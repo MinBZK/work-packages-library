@@ -1,0 +1,31 @@
+.spacer1 {
+  height: 3rem;
+}
+
+.removeBtn {
+  color: white;
+  border-radius: 3px;
+  background-color: red;
+  font-size: 0.8rem;
+  top: -23px;
+  left: -55px;
+  padding: 0 3px;
+}
+
+.removePolicyBtn {
+  top: -32px;
+}
+
+.removeBtnIcon {
+  /* currently not used */
+  color: white;
+  border-radius: 3px;
+  background-color: red;
+  /* font-weight: bold; */
+  font-size: 0.8rem;
+  /* font-size: 1.5rem; */
+  top: -35px;
+  left: -55px;
+  padding: 3px;
+  /* padding: 5px; */
+}

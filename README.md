@@ -22,7 +22,7 @@ Use this repository by putting your deliverable(s) in the folder of your work pa
 3. Create a new branch for your work-package using `git checkout -b Work-package-name-here`.
 4. Update the `index.json` with the metadata by adding a new entry at the top.
 5. Add your deliverable(s). Make sure that the `Work-package-name` exactly matches the folder to be created for this (or already present). Within the `Work-package-name` folder you are free to use your own structure.
-6. Describe in a `HOW TO` how someone can view the work package result and/or run it themselves.
+6. Describe in a `README` how someone can view the work package result and/or run it themselves.
 7. Push the changes to the remote repository.
 8. Submit a pull request to the upstream repository.  
 

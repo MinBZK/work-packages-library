@@ -1,0 +1,11 @@
+.cursorPointer {
+  cursor: pointer;
+}
+
+.positionAbsolute {
+  position: absolute;
+}
+
+.positionRelative {
+  position: relative;
+}
