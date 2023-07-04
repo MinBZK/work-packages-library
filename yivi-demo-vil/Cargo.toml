@@ -1,0 +1,21 @@
+[package]
+name = "vil-yivi"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+askama = { version = "0.12.0", features = [ "with-axum" ] }
+askama_axum = "0.3.0"
+axum = "0.6.18"
+chrono = "0.4.24"
+config = "0.13.3"
+irma = { git = "https://github.com/tweedegolf/irmars.git", rev = "4b2ae7e81024a931c2415ccdcb1d87362bd2cdb0" }
+reqwest = { version = "0.11", features = [ "json", "serde_json" ] }
+serde = { version = "1.0.163", features = [ "derive" ] }
+serde_json = "1.0.96"
+thiserror = "1.0.40"
+tokio = { version = "1.28.1", features = [ "macros", "rt-multi-thread" ] }
+tower-http = { version = "0.4.0", features = [ "fs" ] }
+url = { version = "2.3.1", features = [ "serde" ] }

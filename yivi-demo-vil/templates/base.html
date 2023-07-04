@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Virtueel Inkomsten Loket met Yivi{% endblock %}</title>
+  <link href="/public/marx.css" rel="stylesheet">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <main>
+    <h1>Virtueel Inkomsten Loket met Yivi</h1>
+    <p>Dit Virtueel Inkomsten Loket checkt op basis van Yivi (demo) attributen of je in aanmerking komt voor een toeslag. De attributen worden gecheckt tegen het vil en wanneer je in aanmerking komt levert dit een voucher op voor een bepaald bedrag.</p>
+    <p><b>Let op:</b> dit is slechts een Proof of Concept op basis van demo attributen, de voucher geeft je geen recht op een toeslag.</p>
+    {% block content %}{% endblock %}
+  </main>
+  {% block scripts %}{% endblock %}
+  <footer>
+    <p>Virtueel Inkomsten Loket met <a target="_blank" rel="nooponer noreferrer" href="https://yivi.app">Yivi</a> op basis van <a target="_blank" rel="nooponer noreferrer" href="https://regels.overheid.nl">regels.overheid.nl</a></p>
+    <p><b>Proof of Concept</b> door <a target="_blank" href="https://tweedegolf.nl">Tweede golf</a></p>
+  </footer>
+</body>
+</html>

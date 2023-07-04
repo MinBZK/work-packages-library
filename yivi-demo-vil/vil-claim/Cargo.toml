@@ -1,0 +1,18 @@
+[package]
+name = "vil-claim"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+askama = { version = "0.12.0", features = [ "with-axum" ] }
+askama_axum = "0.3.0"
+axum = "0.6.18"
+config = "0.13.3"
+irma = "0.2.1"
+reqwest = { version = "0.11", features = [ "json", "serde_json" ] }
+serde = { version = "1.0.163", features = [ "derive" ] }
+thiserror = "1.0.40"
+tokio = { version = "1.28.1", features = ["macros", "rt-multi-thread"] }
+url = { version = "2.3.1", features = [ "serde" ] }
