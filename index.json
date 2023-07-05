@@ -59,5 +59,17 @@
     ],
     "contact name": "Maikel Mertens",
     "contact email": "maikel.mertens@doccle.nl"
+  },
+  {
+    "project": "Yivi demo VIL",
+    "work-package-name": "yivi-demo-vil",
+    "work-package-issue-url": "https://github.com/MinBZK/regels.overheid.nl/issues/31",
+    "short-description": "Demo of the Virtueel Inkomsten Loket with Yivi",
+    "software-language": [
+      "Rust",
+      "HTML",
+    ],
+    "contact name": "Hugo van de Pol",
+    "contact email": "support@tweedegolf.com"
   }
 ]

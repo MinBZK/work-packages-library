@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}Alle regels{% endblock %}
+
+{% block content %}
+<h2>Virtueel Inkomsten Loket</h2>
+<p>Hieronder een lijst van de regels in het Virtueel Inkomsten Loket.</p>
+<ul>
+  {% for rule in rule_groups %}
+  <li>
+    <a href="{{ rule.id }}">{{ rule.attributes.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}

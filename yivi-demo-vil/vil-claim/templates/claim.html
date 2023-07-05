@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block head %}
+<script src="/public/yivi.js" type="text/javascript"></script>
+{% endblock %}
+
+{% block content %}
+<h2>Claim hier je voucher</h2>
+<p>Scan de code hieronder met je Yivi app om de voucher die je hebt gekregen te laten uitkeren.</p>
+<center>
+  <div id="yivi"></div>
+  <img src="/public/money.gif" style="visibility: hidden; height: 0;" />
+</center>
+{% endblock %}
+
+{% block scripts %}
+<script type="text/javascript">
+  const yivi_elem = document.getElementById("yivi");
+  const gif = document.getElementsByTagName("img")[0];
+
+  const yiviWeb = yivi.newWeb({
+    debugging: false,
+    element:   '#yivi',
+
+    session: {
+      start: {
+        url: _ => `/claim/session`,
+      },
+      result: {
+        method: 'POST',
+        url: (_, { sessionToken }) => `/claim/session/${ sessionToken }/result`,
+      },
+    }
+  });
+
+  yiviWeb.start()
+    .then(result => {
+      yivi_elem.style = "visibility: hidden; height: 0;";
+      gif.style = "visibility: visible; height: 300px;";
+    })
+    .catch(error => console.error("Something went wrong:", error));
+</script>
+{% endblock %}
